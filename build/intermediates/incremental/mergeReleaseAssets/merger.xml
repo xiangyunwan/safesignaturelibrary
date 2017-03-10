@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\leJR-Source\mobile_android\safesignaturelibrary\src\main\assets"/><source path="D:\leJR-Source\mobile_android\safesignaturelibrary\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\leJR-Source\mobile_android\safesignaturelibrary\src\release\assets"/></dataSet></merger>
